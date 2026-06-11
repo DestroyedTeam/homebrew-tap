@@ -1,7 +1,6 @@
 class Ucp < Formula
   desc "Unified Codex provider profile manager"
   homepage "https://github.com/DestroyedTeam/unified-codex-provider"
-  version "0.1.0"
   license "MIT"
 
   depends_on :macos
