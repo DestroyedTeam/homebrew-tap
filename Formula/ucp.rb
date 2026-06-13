@@ -7,13 +7,13 @@ class Ucp < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/DestroyedTeam/unified-codex-provider/releases/download/v0.2.0/ucp-0.2.0-aarch64-apple-darwin.tar.gz"
-      sha256 "dce2a33d3db5d1c66af2818a8a5e13c1c8e1053e6fdb4ddc8665c7455eb167df"
+      url "https://github.com/DestroyedTeam/unified-codex-provider/releases/download/v0.2.1/ucp-0.2.1-aarch64-apple-darwin.tar.gz"
+      sha256 "49730e3bb699426e83a0953266fd79d17a87f37c434b156223e69077456bd5b6"
     end
 
     on_intel do
-      url "https://github.com/DestroyedTeam/unified-codex-provider/releases/download/v0.2.0/ucp-0.2.0-x86_64-apple-darwin.tar.gz"
-      sha256 "fc16abd1eac69d72be0841694b9542ae124ffaf7f6cd6e9597ef24539ce48be5"
+      url "https://github.com/DestroyedTeam/unified-codex-provider/releases/download/v0.2.1/ucp-0.2.1-x86_64-apple-darwin.tar.gz"
+      sha256 "2ce59403631974d669fdd36e23292664582fbc2b9f07b8801d2764751c96b16e"
     end
   end
 
